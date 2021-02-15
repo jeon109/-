@@ -43,7 +43,7 @@
 
 깃헙주소 : https://github.com/jeon109/Forager-Imitation
 
-동영상링크 :  유튜브 주소
+동영상링크 :  https://www.youtube.com/watch?v=9pkxdFFf6VM&list=PLmsQqtQKyKzc1xjM9xiGC7gZ6d20irkrH&index=4
 
 ------------
 
