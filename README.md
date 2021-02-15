@@ -6,7 +6,9 @@
 <img src="/Scripts/던전 탐사대.jpg"  width="300" height="170">
 
 장르 : RPG / Action
+
 제작 : Unity Engine 
+
 버전 관리 : GitHub, Sourcetree, Trello
 
 개요 : 적의 공격을 타이밍에 맞추어 카운터 치지 않으면 공격을 할 수 없는 극한의 컨셉 액션게임. 리듬게임의 리듬감과 액션게임 의 타격감을 적절히 섞어 녹여내었다.
@@ -28,7 +30,9 @@
 <img src="/Scripts/For.png"  width="170" height="170">
 
 장르 :2D RPG 생존
+
 제작 :  C++(Window API)
+
 제작기간 : 4주
 
 1. 픽셀충돌
@@ -47,7 +51,9 @@
 <img src="/Scripts/Hollow.png"  width="100" height="150">
 
 장르 : 인디게임
+
 제작 :  C++(Window API)
+
 제작기간 : 1주
 
 깃헙주소 : https://github.com/jeon109/Hollow-Knight
