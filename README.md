@@ -25,7 +25,7 @@
 ------------
 
 # Forager-Imitation
-<img src="/Scripts/For.png"  width="170" height="80">
+<img src="/Scripts/For.png"  width="170" height="200">
 
 장르 :2D RPG 생존
 제작 :  C++(Window API)
@@ -44,7 +44,7 @@
 ------------
 
 # Hollow_Knight-Imitation
-<img src="/Scripts/Hollow.png"  width="300" height="170">
+<img src="/Scripts/Hollow.png"  width="170" height="80">
 
 장르 : 인디게임
 제작 :  C++(Window API)
