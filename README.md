@@ -4,10 +4,9 @@
 
 # 던전 탐사대
 
-장르 : RPG / Action
-제작 : Unity Engine
-버전 관리 : GitHub, Sourcetree, Trello
-
+장르 : RPG / Action \n
+제작 : Unity Engine \n
+버전 관리 : GitHub, Sourcetree, Trello \n
 개요 : 적의 공격을 타이밍에 맞추어 카운터 치지 않으면 공격을 할 수 없는 극한의 컨셉 액션게임. 리듬게임의 리듬감과 액션게임 의 타격감을 적절히 섞어 녹여내었다.
 4인 기획팀과 5인 프로그래밍 팀의 협업 프로젝트였으며, 
 종합적인 UI 구조 및 시스템, 캐릭터 창, 인벤토리 창, 제작 시스템 등 UI와 던전 시스템을 담당하여 제작하였다.
