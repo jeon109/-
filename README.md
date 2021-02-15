@@ -12,8 +12,8 @@
 4인 기획팀과 5인 프로그래밍 팀의 협업 프로젝트였으며, 
 종합적인 UI 구조 및 시스템, 캐릭터 창, 인벤토리 창, 제작 시스템 등 UI와 던전 시스템을 담당하여 제작하였다.
 
-1. UI Manager 를만들어 UI관리
-2. Ingame Scene 과 UI Scene을 하나의 화면에 출력하여 관리
+1. Ingame Scene 과 UI Scene을 하나의 화면에 출력하여 관리
+2. UI Manager 를만들어 UI관리
 3. System.event를 활용하여 Ingame과 UI 사이에서 데이터 전달
 4. Monster라는 부모 객체를 활용하여 Enemy 생산
 
