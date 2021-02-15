@@ -22,8 +22,6 @@
 
 깃헙주소 : https://github.com/jeon109/Unity-Team-Project
 
-동영상링크 :  유튜브 주소
-
 ------------
 
 # Forager-Imitation
