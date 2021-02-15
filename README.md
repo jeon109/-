@@ -25,6 +25,11 @@
 ------------
 
 # Forager-Imitation
+<img src="/Scripts/던전 탐사대.jpg"  width="300" height="170">
+
+장르 :2D RPG 생존
+제작 :  C++(Window API)
+제작기간 : 4주
 
 1. 픽셀충돌
 2. AAA
@@ -32,13 +37,19 @@
 4. CCC
 
 
-깃헙주소 : 해당 포트폴리오 리드미파일 볼 수 있게
+깃헙주소 : https://github.com/jeon109/Forager-Imitation
 
 동영상링크 :  유튜브 주소
 
 ------------
 
-아래도 위와 같이 계속 만들어 나간다
-유니티 포폴은 깃헙주소도 같이 남기고 주석은 정말 잘 달아두어라
-이렇게 되면 코드보여달라는 소리 안한다
-코드보여달라고 하면 깃헙 프로젝트 주소 보내주면 된다
+# Hollow_Knight-Imitation
+<img src="/Scripts/던전 탐사대.jpg"  width="300" height="170">
+
+장르 : 인디게임
+제작 :  C++(Window API)
+제작기간 : 1주
+
+깃헙주소 : https://github.com/jeon109/Hollow-Knight
+
+------------
