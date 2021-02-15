@@ -3,6 +3,7 @@
 ------------
 
 # 던전 탐사대
+<img src="/Scripts/던전 탐사대.jpg"  width="700" height="370">
 
 장르 : RPG / Action
 제작 : Unity Engine 
