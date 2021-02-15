@@ -35,11 +35,6 @@
 
 제작기간 : 4주
 
-1. 픽셀충돌
-2. AAA
-3. BBB
-4. CCC
-
 
 깃헙주소 : https://github.com/jeon109/Forager-Imitation
 
