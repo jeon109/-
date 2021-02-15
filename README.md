@@ -44,7 +44,7 @@
 ------------
 
 # Hollow_Knight-Imitation
-<img src="/Scripts/Hollow.png"  width="170" height="80">
+<img src="/Scripts/Hollow.png"  width="80" height="170">
 
 장르 : 인디게임
 제작 :  C++(Window API)
